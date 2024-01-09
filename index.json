@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "home": {
+        "main": [
+          {
+            "link": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQOaEOcG2XSy5xi6W1b0C3DXLH99AyX9wrRIR_9wAxoe4IXAeNjibAQsYXK2gdj-BTwPtW6t_rB8niTyqKmaZP1bo8OoA=s1600",
+            "content": [
+              {
+                "id": 1,
+                "line1": "I am Seth Tobias,"
+              },
+              {
+                "id": 2,
+                "line2": "An Aspiring Developer."
+              },
+              {
+                "id": 3,
+                "line3": "Based in Tableview, CapeTown."
+              }
+            ]
+          }
+        ],
+        "extra": [
+          {
+            "heading": [
+              {
+                "id": 1,
+                "headpro": "My recent projects:"
+              },
+              {
+                "id": 2,
+                "headcv": "My curriculum Vitae:"
+              },
+              {
+                "id": 3,
+                "zindex": "See a preview of my projects!"
+              }
+            ],
+
+            "projects": [
+              {
+                "id": 1,
+                "link": "My recent projects:"
+              },
+              {
+                "id": 2,
+                "link": "My recent projects:"
+              },
+              {
+                "id": 3,
+                "link": "My recent projects:"
+              },
+              {
+                "id": 4,
+                "link": "My recent projects:"
+              }
+            ],
+            "cv": [
+              {
+                "id": 1,
+                "link": "cv-image"
+              },
+              {
+                "id": 2,
+                "link": "Print"
+              },
+              {
+                "id": 3,
+                "link": "Download"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
