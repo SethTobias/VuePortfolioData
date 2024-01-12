@@ -1,78 +1,244 @@
 {
-  "data": [
-    {
-      "home": {
-        "main": [
-          {
-            "link": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQOaEOcG2XSy5xi6W1b0C3DXLH99AyX9wrRIR_9wAxoe4IXAeNjibAQsYXK2gdj-BTwPtW6t_rB8niTyqKmaZP1bo8OoA=s1600",
-            "content": [
-              {
-                "id": 1,
-                "line1": "I am Seth Tobias,"
-              },
-              {
-                "id": 2,
-                "line2": "An Aspiring Developer."
-              },
-              {
-                "id": 3,
-                "line3": "Based in Tableview, CapeTown."
-              }
-            ]
-          }
+  "jsonData": [ {
+    "home": [
+      {
+        "headings" : ["Home:","My recent projects:","My curriculum Vitae:"],
+        "img-links": ["https: //lh3.googleusercontent.com/drive-viewer/AEYmBYQOaEOcG2XSy5xi6W1b0C3DXLH99AyX9wrRIR_9wAxoe4IXAeNjibAQsYXK2gdj-BTwPtW6t_rB8niTyqKmaZP1bo8OoA=s1600","https://lh3.googleusercontent.com/drive-viewer/AEYmBYTLtxmzBnoImDOB_2yd8TbQoDE10MnYH4hyBXUM1wtXjldqGuPCeb5Zgo5H9hfGLZpXaw9aVceU0oGWrC_3vH4aazqMpQ=s1600","https://lh3.googleusercontent.com/drive-viewer/AEYmBYR9JP9ZoP1E90DulmLQBzS59MU1q2iJ1oed1MzcSQ5JxfhQPAuuv-BToRSSR1ESD7dlnYS7XoUgm_wZwWHmFHk5Ts9OhQ=s2560"
         ],
-        "extra": [
-          {
-            "heading": [
-              {
-                "id": 1,
-                "headpro": "My recent projects:"
-              },
-              {
-                "id": 2,
-                "headcv": "My curriculum Vitae:"
-              },
-              {
-                "id": 3,
-                "zindex": "See a preview of my projects!"
-              }
-            ],
+        "main-info": ["I am Seth Tobias,","An Aspiring Developer.","Based in Tableview, CapeTown."]
+        
+      }],
 
-            "projects": [
-              {
-                "id": 1,
-                "link": "My recent projects:"
-              },
-              {
-                "id": 2,
-                "link": "My recent projects:"
-              },
-              {
-                "id": 3,
-                "link": "My recent projects:"
-              },
-              {
-                "id": 4,
-                "link": "My recent projects:"
-              }
-            ],
-            "cv": [
-              {
-                "id": 1,
-                "link": "cv-image"
-              },
-              {
-                "id": 2,
-                "link": "Print"
-              },
-              {
-                "id": 3,
-                "link": "Download"
-              }
-            ]
-          }
-        ]
-      }
-    }
+      "about": [
+        {
+          "headings": [
+            "My Story:",
+            "I am Seth Tobias",
+            "My Hobbies:"
+          ],
+          "img-links": [ "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQRM-jWXBbATi2bFVsXTDTTB8rJjSl8KP-673nkhfR8aN_MyCgCjpeStmvMMuYl3o_NCySD3svXBosCnHEnIBCE4bT-9A=s1600",{"map-desk": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSGtOQMI0a4bHB8PHScSiaQ0XFs61wA_hZwvq77ejGjAQO-XmVqluG9JILysFAe_5Hh95NJYyXUgwZHsU7D7dtqaBnBJg=s1600", "map-ipad": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoQxi-3rCO739ECU3lSpHFdCqtfRowGUKgMEpT3q0RJtAg2F3H4ciL1I4stmbtljdVxYhTShFgi_S52j2GRH0jTW-hmg=s2560", "map-mid": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSiI8zOi3tAOt4vHdBAIjlHpAvChkHwUqk0bkIBc5mzSRdmP4paKsXzVMJEB5E_LT_qwQAFpvFyJmPs0aQzu9XlHedWhA=s2560", "map-mobile": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRIrudgbyHT7nzv5Rhg2izMAXbuwVPsF_G0HCjRSaDsuARnpqH8Y9AD2yVcLUkMCmPULxZjmWI9DNJilUPwhT-SUgwR=s2560"}
+           
+          ],
+          "content": [
+            "I am a 19-year-old aspiring Full-stack Web Developer. My journey started in 2020 when I first came across coding. I started with the fundamentals of HTML. I however abruptly stopped as my academics at the time were more important to me. I picked up where I left off earlier this year, as I matriculated in 2022 I found myself having a lot more free time. Through my efforts, I managed to have a basic understanding of HTML and CSS. In the meantime, while I was doing my studies I scoured the internet for courses on Web Development. Thanks to this I now find myself a part of the Life Choices Coding Academy. My journey in learning Web Development started at this point. I now find myself being able to create my very own Vue.js Portfolio.",
+            "Bellow is an image map containing a few of my favourite hobbies to do in my free time. Consisting of Reading, watching Movies, Sport and listening to Music. Simply click the relevant item in the image to learn more!"
+          ]}
+      ],
+      "movies": [
+        { "headings": [
+            "My Story:",
+            "I am Seth Tobias",
+            "My Hobbies:"
+          ],
+          "img-links": [ "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQRM-jWXBbATi2bFVsXTDTTB8rJjSl8KP-673nkhfR8aN_MyCgCjpeStmvMMuYl3o_NCySD3svXBosCnHEnIBCE4bT-9A=s1600",{"map-desk": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSGtOQMI0a4bHB8PHScSiaQ0XFs61wA_hZwvq77ejGjAQO-XmVqluG9JILysFAe_5Hh95NJYyXUgwZHsU7D7dtqaBnBJg=s1600", "map-ipad": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoQxi-3rCO739ECU3lSpHFdCqtfRowGUKgMEpT3q0RJtAg2F3H4ciL1I4stmbtljdVxYhTShFgi_S52j2GRH0jTW-hmg=s2560", "map-mid": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSiI8zOi3tAOt4vHdBAIjlHpAvChkHwUqk0bkIBc5mzSRdmP4paKsXzVMJEB5E_LT_qwQAFpvFyJmPs0aQzu9XlHedWhA=s2560", "map-mobile": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRIrudgbyHT7nzv5Rhg2izMAXbuwVPsF_G0HCjRSaDsuARnpqH8Y9AD2yVcLUkMCmPULxZjmWI9DNJilUPwhT-SUgwR=s2560"}
+           
+          ],
+          "content": [
+            "I am a 19-year-old aspiring Full-stack Web Developer. My journey started in 2020 when I first came across coding. I started with the fundamentals of HTML. I however abruptly stopped as my academics at the time were more important to me. I picked up where I left off earlier this year, as I matriculated in 2022 I found myself having a lot more free time. Through my efforts, I managed to have a basic understanding of HTML and CSS. In the meantime, while I was doing my studies I scoured the internet for courses on Web Development. Thanks to this I now find myself a part of the Life Choices Coding Academy. My journey in learning Web Development started at this point. I now find myself being able to create my very own Vue.js Portfolio.",
+            "Bellow is an image map containing a few of my favourite hobbies to do in my free time. Consisting of Reading, watching Movies, Sport and listening to Music. Simply click the relevant item in the image to learn more!"
+          ]}
+      ],
+      "music": [
+        {
+          "headings": [
+            "Movies:"
+          ],
+          "img-links": [
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRSGiddPnpYREHWY2gJzCH2ZabQs4rGKHPSMf6BxAc6kwg67FDcohC2esNIxgtnm1gMkmmHnCv0D7y7d17KFZRqslcfRg=s1600",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRNiBUENSJTBVeM7j6V1KaPDjl4sGayi0aS3-6UrxJNEgeRdeMDCRWHUph2_40OnS-vKw6aVf3OvPs9wOZJJKc3YRsD=s2560",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ_q4I1JsqfNENSyp2TgR9H2XtCmv26dNHffpeHgzyCBOQ17NUcGri0DQ1uRJpFbcnDu2YbADAqBWB742GQR7MnQp-v=s2560"
+           
+          ],
+          "content": [
+            "As a child I lost track of the countless hours I spent immersing myself in the world of movies. To say the my very persona was shaped thanks to the numerous characters is far form an understatement. Thanks to Stitch I have learnt to not allow what others think of us to have an impact on our actions. Also that change is possible if we welcome it. That coupled with my healthy obsession for romance films drives my hobby of watching movies. As it has a very special place in my heart."
+          ]
+        }
+      ],
+      "sport": [
+        {
+          "headings": [
+            "Sport:"
+          ],
+          "img-links": [
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTyDLDa2VMmUdx7JbrkTPoqV9UGNn1523SF3KINPN021AXTJaTSBhGc-6765aLQP5INpnRNia9ydHQuCGQ2_HeCb39U=s2560",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTkhCE4CooCBeUbCUL5xSu-0KsvLKNaxSvl8So_K1AeAlWToRf8J-Hy4QKhXhmc-IwCSOWznJ7Le1rBXVU0VwkAGZvYBg=s2560",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQUVRmxwORr0ayMOokh8cgDIn56G8_3hITxbqNmkaeZCdr1jKgK4H1xMVG13G1LjRR5xgZmEHRt96hRehyqgQGjhrpoDw=s2560"
+           
+          ],
+          "content": [
+            "In the early years of my life I had no particular interest for sport. The only times I would partake in any form of sport was for academic reasons or if I was asked to join in. This however changed when I learnt about Hockey. Form the very first time I walked onto the Hockey turf I knew it was a match made in heaven.",
+            "Is what I would like to say. My love for the sport actually grew thanks to my desire to improve as a player. Through my constant failures within the sport I learnt to always get back up after getting knocked down. Along my journey as a Hockey player I learnt the importance of teamwork and dedication. I also learnt the joys of sport."
+          ]
+        }
+      ],
+      "reading": [
+        {
+          "headings": [
+            "Reading:",
+            "My Current Top Reads:"
+          ],
+          "img-links": [
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTc6XDKc4qhmic5P2KFKhiy9V4EOPtLNdFBj-ZSh96m3KWqFh9deysNIiIxJ90wkqf9aa-8PiOZ0qPowqxWwaY40URscg=s1600",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQMGqzowDia6MStQ8ZbMyiIXsWm2rBKzzcKd6LgNr3XMZDU4Pd5015i1SeGjkHqnc7ibBzfOF7AuLN0Kbn6o8Z3qa4h=s2560",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSbHRj9xplJR6dc7DHNgL0xXKKWkCGGGlacOB86rSlbXv1LhUUcq92U9ory6udRUUei2Azhl_WFfY2IpnjZmFu50bDPoA=s2560"
+          ],
+          "content": [
+            "People often quite shocked when I tell them that reading is one of my many hobbies. For myself though I would not have it any other way. I can start at a book for hours and feel like no time has passed what so ever. I enjoy the fact that simply words can create such a vivid picture in ones mind without even being to see it. The world of literature is so vast that you can lose yourself in countless books effortlessly. My favourite books to read include Manga, Manhua and the occasional novel."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "headings": [
+            "Projects:"
+          ],
+          "modal-info": [ "Project Name:", "Description:", "Languages Used:", "Used Frameworks", "Links:"
+          ],
+          "project-info": [
+            { "project-1": ["Project Name:",
+              "Description:",
+              "Languages Used:",
+              "Used Frameworks",
+              "Links:"]
+            },
+            { "project-2": ["Project Name:",
+              "Description:",
+              "Languages Used:",
+              "Used Frameworks",
+              "Links:"]
+            },
+            { "project-3": ["Project Name:",
+              "Description:",
+              "Languages Used:",
+              "Used Frameworks",
+              "Links:"]
+            },
+            { "project-4": ["Project Name:",
+              "Description:",
+              "Languages Used:",
+              "Used Frameworks",
+              "Links:"]
+            },
+            { "project-5": ["Project Name:",
+              "Description:",
+              "Languages Used:",
+              "Used Frameworks",
+              "Links:"]
+            },
+            { "project-6": ["Project Name:",
+              "Description:",
+              "Languages Used:",
+              "Used Frameworks",
+              "Links:"]
+            }
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "headings": [
+            "Education:",
+            "Matric Results:",
+            "Subject:",
+            "Mark Acheived:",
+            "Volunteer Experience:",
+            "Young People Leader:",
+            "Fallen Angels Rescue:"
+          ],
+          "img-links": [
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYT_hR8XuX8gw_eFU_k7bmowuLZnJuBPap-MmZDNXSP3X-6LrvMIGo_rvFaLl_N8SE1vFEJYIP5JlCn6RmYOLQVN7Rp3BA=s1600",
+            "https://lh3.googleusercontent.com/drive-viewer/AEYmBYS1tnRyTKo9R17E-1rhgqL4o6JVezI5bUgfWjMx2xideFx_ep2O3kMiiDYHKcacVZo_YwQeRbG4dH8MZTj6gH5TIKfkzQ=s1600"
+          ],
+          "content": [
+            "Computer Applications:",
+            "82%",
+            "Life Sciences",
+            "80%",
+            "Organizing Events",
+            "Guiding younger members",
+            "Help walking dogs",
+            "Upkeep of dog shelters",
+            "Basic maintenance tasks"
+          ]
+        }
+      ],
+      "testimonials": {
+        "headings": [
+          "Testimonial:"
+        ],
+          "testimonial-info": [
+            {
+              "testimonial-1": [
+                "https://i.ibb.co/L6M5L7R/Ty-noBg.png",
+                "Tyheisha Johnson",
+                "Student",
+                "Colleague",
+                "Seth is a charismatic and generous person, he connects with everyone in the room. He's analytical and provides help whenever he can. He's determined to achieve the best out of everyday and motivates those around him as well."
+              ]
+            },
+            {
+              "testimonial-2": [
+                "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRcT1LTX-N2xWbobZLA7fZ6H8-BJBIPs9hxnJLf2RbZNgVO7gtXetsaA6cPXaETIduXXg-cKtSaqDIZKmxmcfrd04zi=s2560",
+                "Taryn-lee Walbrugh",
+                "Student",
+                "Colleague",
+                "Seth Tobias is both kind and compassionate. The atmosphere that he brings into one's presence is calming and comforting. He has the ability to brighten anyone's day. Seth's work ethic and determination is admirable and inspirational."
+              ]
+            },
+            {
+              "testimonial-3": [
+                "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQayhxQRqQw7DqYA80w5CVRAIDzlRB9vbpCK73crLnuuFIeWaC3erSb3oObGJyrpdMbK4dMTrI5XaJw-0oboiZ1STPQ_w=s2560",
+                "Zubaidah Isaacs",
+                "Student",
+                "Colleague",
+                "Seth is a very friendly person and is very committed to his work. He is very hardworking and has good social skills and is good at problem-solving and very enthusiastic too."
+              ]
+            },
+            {
+              "testimonial-4": [
+                "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSHyXVmeOjGY7r5JmUj7lh23UykCDPuYkwHQbAqBLqNMlyBaUcgfj36QlBt0HN5WE0WljLycDwG_JDydKbp8kaZxW5q=s2560",
+                "Ntokozo Sithebe",
+                "Student",
+                "Colleague",
+                " Seth is a very enthusiastic about life. Everything he talks about has life or character. He is like a sunflower, always blossoming."
+              ]
+            },
+            {
+              "testimonial-5": [
+                "https://i.ibb.co/3fwNCwS/My-Home-Pg-Pic-Bg-Square-Ver-no-Bg.png",
+                "Naeema Omar",
+                "Student",
+                "Colleague",
+                " Seth Tobias always brings great energy to the team. He has solid attention to detail which is why he is often designated as our go-to debugger. He is self-driven and always go above and beyond with any task he's given."
+              ]
+            },
+            {
+              "testimonial-6": [
+                "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTZRbjgb8dGHH8yKPYGy1tzTdp3j8JL_XJvL_LZYePVZNVNyGPu52iIMfsC0TPAYIr_9mE0qXgGx6D-npB6x43tdiWMUg=s2560",
+                "Matthew Dean Brown",
+                "Lecturer",
+                "Lecturer",
+                "Error"
+              ]
+            }
+          ]
+      },
+      "contact": [
+        {
+          "headings": [
+            "Wanna Get In Touch? Here is How!",
+            "Contact Forms:",
+            "Enterprise/Cooperation Form:",
+            "Social Platforms:"
+          ],
+          "content": [
+            "Either complete one of the below contact forms or follow one of the many links to any of my social media pages. This includes my Email address and telephone number.",
+            "Below you will find one of two contact forms. The first being for if you would like to get a hold of me for any personal enquires, eg. Get advice on how to build an awesome portfolio. The second being for more formal and professional enquires, eg. Wanting to collaborate on a certain project."
+          ]
+        }
+      ]
+  }
+    
   ]
+  
 }
